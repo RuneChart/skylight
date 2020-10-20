@@ -4,5 +4,7 @@ A server proxy decoder for files encrypted by https://github.com/redsolver/skyne
 Usage:  dart skylight.dart \<port> \<webportal>
   
 Future development goals:
--backwards compatibility with unencrypted skylinks
--permission system to allow web apps to request storage
+
+* backwards compatibility with unencrypted skylinks
+
+* permission system to allow web apps to request storage
