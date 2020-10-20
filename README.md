@@ -6,5 +6,5 @@ Usage:  dart skylight.dart \<port> \<webportal>
 Future development goals:
 
 * backwards compatibility with unencrypted skylinks
-
 * permission system to allow web apps to request storage
+* configuration page
